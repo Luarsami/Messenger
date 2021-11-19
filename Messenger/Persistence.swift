@@ -2,7 +2,7 @@
 //  Persistence.swift
 //  Messenger
 //
-//  Created by Pablo Lopez  on 18/11/21.
+//  Created by Luis Sarria  on 18/11/21.
 //
 
 import CoreData
